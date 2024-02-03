@@ -1,0 +1,6 @@
+Background: Silver Frost (#E1E3E5) - A slightly warmer tone that will complement the Pale Blue and provide a neutral backdrop.
+Headers: Bright Silver (#F0F0F0) - A light, reflective color that will make Electric Cobalt pop even more.
+Main Text: Graphite (#1A1A1A) - A darker shade than Dark Navy for higher contrast and better legibility against the background.
+Secondary Text: Platinum (#E5E4E2) - A metallic shade that works well with Soft Steel Blue for subtler text elements.
+CTA Buttons: Citrus Yellow (#EAF048) - A zesty color that's a bit more vibrant than Neon Lime to stand out against the background.
+Interactive Elements: Azure Radiance (#007FFF) - A brighter variant of Saturated Turquoise for clickable links that catch the eye.
